@@ -14,3 +14,7 @@ def about():
 	return render_template('aboutpage.html')
 
 # Start our application
+# if __name__ == "__main__":
+# 	app.run(
+# 		debug = True
+# 	)
